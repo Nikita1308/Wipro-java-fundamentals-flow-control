@@ -37,3 +37,7 @@ Example3)
 C:\>java Sample 15
 O/P Expected : Invalid month
 [*Use Switch Statement*]
+
+Assignment 10-
+
+Write a program to print numbers from 1 to 10 in a single row with one tab space.[*Use for loop*]

@@ -15,14 +15,14 @@ If the character value is in uppercase, the output should be displayed in lowerc
 Example2)
 i/p:A
 o/p:A->a
-[*Use If Statement*
+[*Use If Statement*]
 
 Assignment 8-
 
 Write a program to receive a color code from the user (an Alphabhet).The program should then print the color name, based on the color code given. The following are the color codes and their corresponding color names.
 R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White. 
 If color code provided by the user is not valid then print "Invalid Code". 
-[*Use Switch Statement*
+[*Use Switch Statement*]
 
 Assignment 9-
 
@@ -36,4 +36,4 @@ O/P Expected : Please enter the month in numbers
 Example3)
 C:\>java Sample 15
 O/P Expected : Invalid month
-[*Use Switch Statement
+[*Use Switch Statement]

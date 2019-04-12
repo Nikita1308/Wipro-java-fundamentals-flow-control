@@ -41,3 +41,7 @@ O/P Expected : Invalid month
 Assignment 10-
 
 Write a program to print numbers from 1 to 10 in a single row with one tab space.[*Use for loop*]
+
+Assignment 11-
+
+Write a program to print even numbers between 23 and 57. Each number should be printed in a separate row.[*Use for loop*]

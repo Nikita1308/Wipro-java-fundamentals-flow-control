@@ -45,3 +45,7 @@ Write a program to print numbers from 1 to 10 in a single row with one tab space
 Assignment 11-
 
 Write a program to print even numbers between 23 and 57. Each number should be printed in a separate row.[*Use for loop*]
+
+Assignment 12-
+
+Write a program to check if a given number is prime or not.[*Use for loop*]
